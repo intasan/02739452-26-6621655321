@@ -1,0 +1,22 @@
+[
+  {
+    view: 'graph',
+    url: 'http://127.0.0.1:8080/dags/agri_prices_etl/grid?tab=graph&dag_run_id=manual__2026-10-23T08%3A29%3A44.454398%2B00%3A00',
+    title: 'agri_prices_etl - Grid - Airflow',
+    time: '2026-10-23T08:35:26.072Z',
+    environment: 'Actual Airflow 2.10.4 UI; local SQLite metadata; price data in PostgreSQL18.6 WASM'
+  },
+  {
+    view: 'grid',
+    url: 'http://127.0.0.1:8080/dags/agri_prices_etl/grid?dag_run_id=manual__2026-10-23T08%3A29%3A44.454398%2B00%3A00',
+    title: 'agri_prices_etl - Grid - Airflow',
+    time: '2026-10-23T08:35:28.045Z',
+    environment: 'Actual Airflow 2.10.4 UI; local SQLite metadata; price data in PostgreSQL18.6 WASM'
+  },
+  {
+    view: 'dashboard',
+    url: 'http://127.0.0.1:8501/',
+    time: '2026-10-23T08:35:33.700Z',
+    environment: 'Actual Streamlit UI querying PostgreSQL18.6 WASM; Docker pending'
+  }
+]

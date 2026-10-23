@@ -1,0 +1,98 @@
+{
+  "page_records": 67,
+  "accepted": 44,
+  "excluded": [
+    {
+      "product_id": "52",
+      "reason": "dated snapshot and displayed range disagree"
+    },
+    {
+      "product_id": "40",
+      "reason": "dated snapshot and displayed range disagree"
+    },
+    {
+      "product_id": "65",
+      "reason": "outside verified lookback"
+    },
+    {
+      "product_id": "73",
+      "reason": "outside verified lookback"
+    },
+    {
+      "product_id": "107",
+      "reason": "dated snapshot and displayed range disagree"
+    },
+    {
+      "product_id": "78",
+      "reason": "outside verified lookback"
+    },
+    {
+      "product_id": "118",
+      "reason": "dated snapshot and displayed range disagree"
+    },
+    {
+      "product_id": "97",
+      "reason": "dated snapshot and displayed range disagree"
+    },
+    {
+      "product_id": "152",
+      "reason": "outside verified lookback"
+    },
+    {
+      "product_id": "134",
+      "reason": "dated snapshot and displayed range disagree"
+    },
+    {
+      "product_id": "151",
+      "reason": "dated snapshot and displayed range disagree"
+    },
+    {
+      "product_id": "164",
+      "reason": "dated snapshot and displayed range disagree"
+    },
+    {
+      "product_id": "171",
+      "reason": "dated snapshot and displayed range disagree"
+    },
+    {
+      "product_id": "215",
+      "reason": "dated snapshot and displayed range disagree"
+    },
+    {
+      "product_id": "159",
+      "reason": "outside verified lookback"
+    },
+    {
+      "product_id": "45",
+      "reason": "dated snapshot and displayed range disagree"
+    },
+    {
+      "product_id": "160",
+      "reason": "outside verified lookback"
+    },
+    {
+      "product_id": "55",
+      "reason": "dated snapshot and displayed range disagree"
+    },
+    {
+      "product_id": "236",
+      "reason": "outside verified lookback"
+    },
+    {
+      "product_id": "233",
+      "reason": "outside verified lookback"
+    },
+    {
+      "product_id": "234",
+      "reason": "outside verified lookback"
+    },
+    {
+      "product_id": "217",
+      "reason": "dated snapshot and displayed range disagree"
+    },
+    {
+      "product_id": "230",
+      "reason": "outside verified lookback"
+    }
+  ]
+}

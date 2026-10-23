@@ -1,0 +1,13 @@
+{
+  "engine": "PostgreSQL18.6 WASM (not Docker16)",
+  "database_rows": 398,
+  "third_source_rows": 44,
+  "dynamic_sources": true,
+  "kpis_match_sql": true,
+  "trend": true,
+  "comparison_prices_match_sql": true,
+  "comparison_same_unit_type_date": true,
+  "product_source_date_filters": true,
+  "pipeline_status_from_database": true,
+  "empty_filter": true
+}

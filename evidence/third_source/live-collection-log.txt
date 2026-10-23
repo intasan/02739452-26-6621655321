@@ -1,0 +1,24 @@
+{
+  "sources": [
+    {
+      "source": "dit",
+      "ok": true,
+      "error": null,
+      "rows": 82
+    },
+    {
+      "source": "talaadthai",
+      "ok": true,
+      "error": null,
+      "rows": 44
+    },
+    {
+      "source": "nabc",
+      "ok": true,
+      "error": null,
+      "rows": 274
+    }
+  ],
+  "valid_rows": 398,
+  "rejected": 0
+}

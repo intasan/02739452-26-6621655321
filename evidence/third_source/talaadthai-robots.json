@@ -1,0 +1,1 @@
+{"url": "https://talaadthai.com/robots.txt", "status": 200, "body": "# *\nUser-agent: *\nDisallow: /*.json$\nDisallow: /*_buildManifest.js$\nDisallow: /*_middlewareManifest.js$\nDisallow: /*_ssgManifest.js$\nDisallow: /*.js$\n\n# Host\nHost: https://talaadthai.com\n\n# Sitemaps\nSitemap: https://talaadthai.com/sitemap.xml\n"}

@@ -1,0 +1,14 @@
+2026-10-23 11:31:30.369 WARNING streamlit.runtime.scriptrunner_utils.script_run_context: Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+{
+  "engine": "PostgreSQL18.6 WASM (not Docker16)",
+  "database_rows": 398,
+  "third_source_rows": 44,
+  "dynamic_sources": true,
+  "kpis_match_sql": true,
+  "trend": true,
+  "comparison_prices_match_sql": true,
+  "comparison_same_unit_type_date": true,
+  "product_source_date_filters": true,
+  "pipeline_status_from_database": true,
+  "empty_filter": true
+}

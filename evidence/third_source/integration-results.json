@@ -1,0 +1,19 @@
+{
+  "engine": "PostgreSQL 18.6 (PGlite 0.5.11) on wasm32-unknown-emscripten, compiled by emcc (Emscripten gcc/clang-like replacement + linker emulating GNU ld) 3.1.74 (1092ec30a3fb1d46b1782ff1b4db5094d3d06ae5), 32-bit",
+  "before_two_sources": 354,
+  "after": 398,
+  "source_counts": {
+    "nabc": 272,
+    "talaadthai": 44,
+    "dit": 82
+  },
+  "old_354_rows_all_13_fields_unchanged": true,
+  "live_dag_twice": "success",
+  "upsert_counts": [
+    398,
+    398
+  ],
+  "third_source_outage": "success; existing DIT/NABC continue",
+  "invalid_price_branch": "expected failed; no data changed",
+  "native_postgres16_docker_tested": false
+}

@@ -1,0 +1,70 @@
+[
+  {
+    "run": 1,
+    "run_id": "manual__2026-10-23T08:28:02.539499+00:00",
+    "state": "success",
+    "persisted_rows": 398,
+    "audit": [
+      398,
+      "success",
+      {
+        "errors": [],
+        "rejected": 0,
+        "duplicates": 2,
+        "input_mode": "live",
+        "source_status": {
+          "dit": {
+            "ok": true,
+            "error": null,
+            "extracted_rows": 82
+          },
+          "nabc": {
+            "ok": true,
+            "error": null,
+            "extracted_rows": 274
+          },
+          "talaadthai": {
+            "ok": true,
+            "error": null,
+            "extracted_rows": 44
+          }
+        },
+        "rejection_details": []
+      }
+    ]
+  },
+  {
+    "run": 2,
+    "run_id": "manual__2026-10-23T08:29:44.454398+00:00",
+    "state": "success",
+    "persisted_rows": 398,
+    "audit": [
+      398,
+      "success",
+      {
+        "errors": [],
+        "rejected": 0,
+        "duplicates": 2,
+        "input_mode": "live",
+        "source_status": {
+          "dit": {
+            "ok": true,
+            "error": null,
+            "extracted_rows": 82
+          },
+          "nabc": {
+            "ok": true,
+            "error": null,
+            "extracted_rows": 274
+          },
+          "talaadthai": {
+            "ok": true,
+            "error": null,
+            "extracted_rows": 44
+          }
+        },
+        "rejection_details": []
+      }
+    ]
+  }
+]
